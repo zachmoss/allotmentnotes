@@ -1,6 +1,6 @@
 ---
-title: "Week 1: Understanding the vaccination strategy"
-date: 2024-04-19
+title: "Release 1: Updating content and terminology
+date: 2026-01-20
 description: First week. Notes from the NHS vaccination strategy.
 ---
 

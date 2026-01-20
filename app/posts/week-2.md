@@ -1,6 +1,6 @@
 ---
 title: "Week 2: Getting started"
-date: 2024-04-26
+date: 2026-04-26
 description: Inspired by Nye.
 image:
   src: /images/nye.jpeg

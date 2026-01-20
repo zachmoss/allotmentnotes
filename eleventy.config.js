@@ -15,17 +15,17 @@ export default function(eleventyConfig) {
     },
     header: {
       logotype: {
-        text: 'NHS notes'
+        text: 'Team notes'
       },
       productName: "",
       organisationName: "Frankie Roberto"
     },
     footer: {
       copyright: {
-        text: '© 2024–2025'
+        text: '© 2026–2027'
       },
       contentLicence: {
-        text: "This is a personal blog. Views expressed are not necessarily those of the NHS."
+        text: "This is a personal blog created by Compassion in Dying staff. Views expressed are not necessarily those of the organisation."
       },
       logo: false,
       meta: {

@@ -1,71 +1,30 @@
 ---
 homepage: true
 layout: collection
-title: Notes from working on NHS digital prevention services
-description: From Frankie Roberto
+title: Updates to our advance decision form
+description: From the Compassion in Dying team
 pagination:
   data: collections.post
   size: 20
   reverse: true
 related:
   sections:
-    - title: Other weeknoters
+    - title: Team members
       items:
-        - text: Benjy Stanton
-          href: https://www.benjystanton.co.uk/blog/
-        - text: Chris Ballantine‑Thomas
-          href: https://chrisballantinethomas.co.uk/notes/
-        - text: Dan Bower
-          href: https://danielbower.com/
-        - text: Irina Pencheva
-          href: https://irinapencheva.com
-        - text: Imogen Levy
-          href: https://teppie-ucd.medium.com
-        - text: Giles Turnbull
-          href: https://gilest.org/notes/index.html
-        - text: James Higgot
-          href: https://jiggott.medium.com
-        - text: Joe Knowles
-          href: https://medium.com/@jjknowles
-        - text: Matt Edgar
-          href: https://blog.mattedgar.com
-        - text: Max Marulli
-          href: https://medium.com/@maxmarulli
-        - text: Matt Jukes
-          href: https://digitalbydefault.com
-        - text: Matt Luct
-          href: https://mattlucht.github.io/notes.html
-        - text: Micol Artom
-          href: https://medium.com/@micolartom
-        - text: Mike Gallagher
-          href: https://mikegallagher.org
-        - text: Neil Williams
-          href: https://neilojwilliams.net
-        - text: Owen Jones
-          href: https://owenis.online/pages/blog/
-        - text: Ralph Hawkins
-          href: https://ralphhawkins.co.uk
-        - text: Rebecca Cottrell
-          href: https://quietsignals.co.uk
-        - text: Sam Villis
-          href: https://stamanfar.medium.com
-        - text: Sarah Rose Stokes
-          href: https://medium.com/@SarahRose-UR
-        - text: Sian Murray Huynh
-          href: https://sianmurrayhuynh.substack.com
-        - text: Simon Wilson
-          href: https://www.officeofwilson.com/author/simon/
-        - text: Steve Messer
-          href: https://visitmy.website/tag/weeknotes/
-        - text: Tero Väänänen
-          href: https://medium.com/@teropsv
-        - text: Tom Hallam
-          href: https://thomashallam.github.io
-        - text: Trilly Chatterjee
-          href: https://medium.com/@trillyc
-        - text: Veronika Jermolina
-          href: https://medium.com/@veroj
-        - text: Vicky Teinaki
-          href: https://medium.vickyteinaki.com/list/weeknotes-b51e1736a091
+        - text: Zach Moss
+          href: https://zachmoss.co.uk/
+        - text: Jen Noel
+          href: https://medium.com/@jennifermarynoel
+        - text: Sarah Malik
+          href: https://compassionindying.org.uk/staff-member/sarah-malik/
+        - text: Sarah White
+          href: https://www.linkedin.com/in/sarah-white-211a16b9/
+        - text: Amber Price
+          href: https://compassionindying.org.uk/staff-member/amber-price/
+        - text: Usha Grieve
+          href: https://compassionindying.org.uk/staff-member/usha-grieve/
+        - text: Jemma Woodley
+          href: https://compassionindying.org.uk/staff-member/jemma-woodley/
+
 ---
 
