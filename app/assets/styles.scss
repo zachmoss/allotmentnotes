@@ -18,6 +18,10 @@ $_accent_colour: #00403a;
   color: $_accent_colour;
 }
 
+.govuk-header {
+  background-color: $_accent_colour;
+}
+
 .app-document-list__item {
   border-top-style: dashed;
   border-top-width: 2px;

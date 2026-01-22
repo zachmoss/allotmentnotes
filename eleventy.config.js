@@ -38,14 +38,14 @@ export default function(eleventyConfig) {
       }
     },
     icons: {
-      touch: 'https://frankieroberto.github.io/nhsnotes/images/icon.png',
+      touch: false,
       shortcut: false,
       mask: false
     },
     themeColor: '#00403a',
     stylesheets: ['/assets/styles.css'],
     titleSuffix: 'ADRT notes from Compassion in Dying',
-    url: process.env.GITHUB_ACTIONS && 'https://frankieroberto.github.io/nhsnotes/'
+    url: process.env.GITHUB_ACTIONS && 'https://adrtnotes.compassionindying.org.uk/'
   })
 
   // Collections
