@@ -1,4 +1,4 @@
-This is a team blog used to track and publish updates to our advance decision form at Compassion in Dying.
+This is a personal blog used to document my journey with my allotment.
 
 The format for the blog has been forked from Frankie Roberto's NHS notes website.
 
