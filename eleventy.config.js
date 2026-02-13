@@ -7,7 +7,7 @@ export default function(eleventyConfig) {
     templates: {
       feed: {
         permalink: '/posts/feed.xml',
-        title: 'ADRT notes'
+        title: 'Allotment notes'
       },
       tags: false,
       searchIndex: false,
@@ -15,10 +15,10 @@ export default function(eleventyConfig) {
     },
     header: {
       logotype: {
-        text: 'ADRT notes'
+        text: 'Allotment notes'
       },
       productName: "",
-      organisationName: "Compassion in Dying"
+      organisationName: "Allotment notes"
     },
     footer: {
       copyright: {
@@ -42,10 +42,10 @@ export default function(eleventyConfig) {
       shortcut: false,
       mask: false
     },
-    themeColor: '#00403a',
+    themeColor: '#4a7c59',
     stylesheets: ['/assets/styles.css'],
-    titleSuffix: 'ADRT notes from Compassion in Dying',
-    url: process.env.GITHUB_ACTIONS && 'https://adrtnotes.compassionindying.org.uk/'
+    titleSuffix: 'Allotment notes',
+    url: process.env.GITHUB_ACTIONS && 'https://zachmoss.github.io/allotmentnotes/'
   })
 
   // Collections
@@ -63,6 +63,6 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app'
     },
-    pathPrefix: '/'
+    pathPrefix: process.env.GITHUB_ACTIONS ? '/allotmentnotes/' : '/'
   }
 };

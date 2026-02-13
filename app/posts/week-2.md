@@ -1,25 +1,33 @@
 ---
-title: "Release 2: Removing pregnancy and organ donation"
-date: 2026-04-26
-description: Inspired by Nye.
-image:
-  src: /images/nye.jpeg
-  alt: Photo of me standing against a brutalist concrete wall next to a post for the play Nye
-  opengraphImage: true
+title: "March: The mud month"
+date: 2026-03-15
+description: Battling the rain and planning the growing season.
 ---
 
-This week was all about getting stuck in.
+March has been relentlessly wet. We've had maybe three dry weekends out of the whole month, and the clay soil has turned into something resembling a pottery studio.
 
-I started it though with a visit to the National Theatre to see [Nye](https://www.nationaltheatre.org.uk/productions/nye/), a play about the life of Aneurin Bevan.
+We've learned not to work the soil when it's this wet — you just end up compacting it into bricks. So instead, we've been focusing on planning.
 
-I’d hoped it would be inspiring, and it was!
+## The plot plan
 
-The play brought home the huge hurdles that were overcome in setting up the National Health Service and the huge impact it has had on people’s lives since.
+We've sketched out a rough plan for the plot:
 
-The team I’ve joined is looking at how vaccinations are recorded in clinical ‘point of care’ systems. One of these is a system called the [National Immunisation & Vaccination System](https://www.ardengemcsu.nhs.uk/services/business-intelligence/nivs/), developed for recording COVID and flu vaccinations.
+* **Bed 1** (nearest the path): salads, herbs and quick crops
+* **Bed 2**: potatoes — they'll help break up the soil
+* **Bed 3**: brassicas — cabbages, kale, sprouting broccoli
+* **Bed 4**: beans, peas and courgettes
+* **Beds 5-6**: still under cardboard — next year's project
 
-I was pleased to be able to observe user research sessions where some new prototypes were tested. Always really important to hear from your users!
+We're loosely following a four-bed rotation, though we'll see how disciplined we actually are about that.
 
-I’ve also been trying to understand the wider landscape of NHS digital services, and so it was great to be able to join a couple of show-and-tells from teams across the NHS.
+## Shed improvements
 
-Finally, I’ve also made a start with contributing to the [NHS Design System](https://service-manual.nhs.uk/design-system) by making a few tiny tweaks and bug fixes. A small start, but I hope to do more in future.
+On the rainy days, we've been sorting out the shed. Found some interesting archaeology in there — a rusty dibber, half a bag of rock-hard fertiliser from 2019, and a copy of the Radio Times from March 2020.
+
+We've put up some shelves, hung the tools on hooks, and it's now a genuinely useful space for potting up seedlings.
+
+## What's growing
+
+The broad beans we sowed in February are up and looking strong. The garlic has sent up green shoots. And the onion sets are doing their thing quietly.
+
+On the windowsill at home, we've started tomatoes, peppers, and a frankly irresponsible number of courgette plants.

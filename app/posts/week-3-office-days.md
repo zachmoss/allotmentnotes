@@ -1,49 +1,38 @@
 ---
-title: "Release 3: Changing the pain relief question"
-date: 2026-05-01
-description: The benefits of being in the office.
-image:
-  src: /images/working-in-the-open.jpeg
-  alt: Photo of a projector screen showing a slide with the text “Joining up teams through working in the open. Working in the open is not just about demonstrating progress, but also talking openly about mistakes, changes, and things you’ve learnt. It’s also about enabling good governance and assurance. It gives colleagues and stakesholders a window onto your work that drives up quality, helps unblock, and manages your dependenceis. Work in the open by being open about the work.”
-  opengraphImage: true
+title: "April: Everything starts happening at once"
+date: 2026-04-12
+description: Planting out, pest patrol and meeting the neighbours.
 ---
 
-This week I spent three whole days talking to people in the office and not just on Teams calls. It was like the before times.
+April is when it all starts to feel real. Suddenly there are things to plant, things to protect, and not enough hours in the weekend.
 
-I started the week with an induction for one of NHS England’s offices in London. It’s nice. There’s plenty of space, the monitors work, and a good canteen too. Needs more posters on the walls though.
+## Planting out
 
-I was lucky to bump into [Matt Edgar](https://blog.mattedgar.com), who gave me some sage advice about navigating the NHS and some pointers for other digital teams who’d successfully developed agile ways of working.
+We've planted out the first potatoes (Charlottes in bed 2) and put in two rows of peas along a makeshift frame of sticks and string.
 
-On Wednesday the digital vaccination teams had a day together up in Leeds. It was a great opportunity to meet the other teams, discuss roadmaps and priorities, and be inspired by the wider vision.
+The broad beans are flowering already, and we've pinched out the tops to discourage blackfly.
 
-Our director [Rachel Hope](https://www.linkedin.com/in/rachel-hope-13a73a193/) gave us all a great reminder that our mission is about improving health outcomes, and not about products, services or technology.
+We also direct sowed:
 
-I was also pleased to see a great slide about working in the open. I hope to both demonstrate this and benefit from seeing the work of others.
+* Carrots (Nantes) — in a raised row to help with drainage
+* Beetroot (Boltardy) — always reliable
+* Radishes — for the impatient gardener
+* Spinach — in a shady spot by the shed
 
-We also had a (virtual) ‘all hands’ later in the week with the wider portfolio of digital prevention services, with a rapid-fire introduction from all the product managers.
+## The pigeon problem
 
-In the feedback section asking for future session ideas, a lot of us suggested demos or ‘show the thing’, so I look forward to those!
+We spent a whole Saturday building a cage out of bamboo and netting to protect the brassica bed. It's not beautiful, but the pigeons have been absolutely hammering the neighbouring plots and we're determined not to lose our cabbages before they've even got going.
 
-I’m still getting my head around the product I’m working on, but was pleased to attend more user research sessions, and to be able to start making some tentative suggestions (amongst asking a lot of possibly annoying questions).
+## Meeting the neighbours
 
-## NHS acronyms of the week
+One of the best things about the allotment is the community. We've met:
 
-I try to note down any new acronyms I hear in meetings.
+* **Derek** on plot 15, who's been here 30 years and knows everything about everything
+* **Priya** on plot 19, who grows the most incredible dahlias alongside her vegetables
+* **The couple on plot 12** who keep bees and have promised us honey in exchange for courgettes (a trade we'll definitely win)
 
-This week, I learnt of:
+Derek gave us some spare raspberry canes and told us firmly that we need to lime the brassica bed. He's probably right.
 
-* [ODS codes](https://odsportal.digital.nhs.uk) (Organisation Data Service): these codes identify organisations working in or with the NHS
-* [CIS2](https://digital.nhs.uk/services/care-identity-service/applications-and-services/cis2-authentication) (Care Identity Service): an authentication system for NHS staff
-* [FHIR](https://digital.nhs.uk/services/fhir-apis) (Fast Healthcare Interoperability Resources): a standard for sending healthcare data between services
+## Wins
 
-## Links
-
-Elsewhere across government, I was interested by:
-
-* Vicky Teinaky’s new side project [documenting common accessibility mistakes](https://medium.vickyteinaki.com/side-projects-a-weeknote-starting-22-april-2024-4a62c3efae72)
-* the Department of Education’s [service for managing service assessments](https://dfedigital.blog.gov.uk/2024/05/01/making-the-service-assessment-process-easier-and-more-consistent/)
-* how GDS are [using webinars to demonstrated GOV.UK Forms](https://gds.blog.gov.uk/2024/02/28/how-were-using-webinars-to-demonstrate-how-quick-and-easy-it-is-to-use-gov-uk-forms/)
-
----
-
-Bank holiday weekend ahead. Enjoy!
+The radishes are already up after just 10 days. There's nothing quite like your first harvest, even if it is just a handful of radishes.

@@ -1,166 +1,58 @@
 ---
-title: "Release 6: deep research into refusals of treatment"
-date: 2026-08-03
-description: Deep research into refusals of treatment.
-author:
-  name: Sarah Malik
-  url: https://compassionindying.org.uk/staff-member/sarah-malik/
+title: "July: High summer and hard lessons"
+date: 2026-07-19
+description: Tomato blight, the bean bonanza and planning ahead.
 ---
 
-This week we did a **deep dive** into how refusals of treatment work within the advance decision form. This post is also a *showcase* of all the markdown components available for future posts.
+July has been a month of highs and lows. The allotment is at its most abundant, but we've also had our first real setback.
 
-## Headings
+## The blight
 
-You can use headings from level 2 (`##`) down to level 4 (`####`) to structure your content. Level 1 is reserved for the page title.
+We noticed the telltale brown patches on the tomato leaves mid-month. Despite our best efforts — removing affected leaves, improving airflow — the outdoor tomatoes succumbed to blight within a week.
 
-### This is a level 3 heading
+It's gutting, but everyone on the site has been affected. The wet spell after the dry June was the perfect storm for it.
 
-Use these for subsections within your main sections.
+Lessons for next year:
 
-#### This is a level 4 heading
+- Choose blight-resistant varieties
+- Don't plant too close together
+- Remove lower leaves earlier to improve airflow
+- Consider growing more under cover
 
-Use these sparingly, for smaller groupings within subsections.
+The good news is the tomatoes against the shed wall, which get more shelter, are still hanging in there.
 
-## Text formatting
+## The bean bonanza
 
-You can make text **bold** or *italic* or even ***bold and italic***. You can also use ~~strikethrough~~ for deleted content.
+The runner beans and French beans are making up for the tomato disappointment. We're picking a carrier bag full every few days. We've been:
 
-For technical content, you might need superscript like E=mc^2^ or subscript like H~2~O.
+1. Eating them with everything
+2. Blanching and freezing bags of them
+3. Making runner bean chutney (surprisingly good)
+4. Leaving bags on Derek's doorstep in revenge for all the advice
 
-## Links
+## What else is cropping
 
-Here are different ways to add links:
-
-- [Compassion in Dying website](https://compassionindying.org.uk/)
-- [NHS guidance on advance decisions](https://www.nhs.uk/conditions/end-of-life-care/advance-decision-to-refuse-treatment/)
-- Auto-linked URL: <https://www.gov.uk/>
-
-## Lists
-
-### Unordered list
-
-Key findings from our research:
-
-- Users found the terminology confusing
-- The form was too long for mobile devices
-- People wanted more examples
-  - Specific medical scenarios
-  - Real-life case studies
-  - Video explanations
-
-### Ordered list
-
-Steps to complete the refusal of treatment section:
-
-1. Read the guidance notes
-2. Consider which treatments to refuse
-3. Discuss with your GP if unsure
-4. Complete the relevant sections
-5. Have the form witnessed
-
-### Description list
-
-Key terms we're clarifying in this release:
-
-Advance decision
-: A legally binding document that lets you refuse specific medical treatments in advance.
-
-Mental capacity
-: The ability to make a specific decision at the time it needs to be made.
-
-Lasting Power of Attorney
-: A legal document that lets you appoint someone to make decisions on your behalf.
-
-## Blockquotes
-
-Feedback from user research:
-
-> I didn't understand what 'life-sustaining treatment' meant. I needed more examples to help me decide what to include.
-
-You can also nest blockquotes:
-
-> The form was clear overall, but...
->
-> > The section on CPR was confusing. I wasn't sure if I was refusing it or requesting it.
-
-## Code
-
-For technical documentation, you can use `inline code` for short snippets.
-
-For longer blocks, use fenced code blocks with syntax highlighting:
-
-```html
-<button class="nhsuk-button" type="submit">
-  Save and continue
-</button>
-```
-
-```javascript
-function validateForm(form) {
-  const requiredFields = form.querySelectorAll('[required]');
-  return Array.from(requiredFields).every(field => field.value);
-}
-```
-
-## Tables
-
-| Treatment type | Can be refused? | Notes |
+| Crop | Status | Notes |
 | :--- | :---: | ---: |
-| CPR | Yes | Most common refusal |
-| Ventilation | Yes | Often linked to CPR |
-| Antibiotics | Yes | Context dependent |
-| Pain relief | Usually no | Comfort care typically continues |
+| Courgettes | Relentless | Still too many |
+| Beetroot | Steady | Second sowing coming through |
+| Chard | Excellent | Why didn't we grow this before? |
+| Potatoes | Done | Maincrops still going |
+| Onions | Drying | Laid out on the shed roof |
 
-## Images
+## Planning ahead
 
-You can add images with captions:
+It feels strange to think about autumn and winter already, but Derek (who else?) has reminded us that now is the time to:
 
-![Placeholder image description](/images/thank-you-nhs.jpeg "Example caption text for the image")
+- Sow purple sprouting broccoli for next spring
+- Order seed garlic for October planting
+- Start thinking about green manures for empty beds
+- Save some seed from the best performers
 
-## Horizontal rules
+## Plot neighbours update
 
-Use horizontal rules to separate distinct sections:
-
----
-
-## Alerts and callouts
-
-> [!NOTE]
-> This is a note callout - useful for additional information.
-
-> [!TIP]
-> This is a tip callout - useful for helpful suggestions.
-
-> [!IMPORTANT]
-> This is an important callout - useful for key information.
-
-> [!WARNING]
-> This is a warning callout - useful for cautions.
-
-> [!CAUTION]
-> This is a caution callout - useful for potential negative consequences.
-
-## Footnotes
-
-Our research showed that 73% of users wanted clearer examples[^1], and 45% requested video guidance[^2].
-
-[^1]: Based on survey responses from 200 users in July 2026.
-
-[^2]: From follow-up interviews with 50 users.
-
-## What's next
-
-In the coming weeks, we'll be:
-
-- Testing the revised content with users
-- Working with clinical advisors on the medical terminology
-- Preparing for the Release 7 deployment
+Priya won Best Dahlia at the allotment show. The beekeeping couple delivered our honey — it's incredible. And Derek has started giving us unsolicited advice about fruit trees, which means he's accepted us as proper allotment holders.
 
 ---
 
-## Links
-
-- [GOV.UK Eleventy Plugin markdown guide](https://govuk-eleventy-plugin.x-govuk.org/example/markdown/)
-- [NHS Service Manual](https://service-manual.nhs.uk/)
-- [Compassion in Dying resources](https://compassionindying.org.uk/resources/)
-
+Half a year in, and we can't imagine weekends without the plot. It's hard work, frequently humbling, and completely wonderful.
