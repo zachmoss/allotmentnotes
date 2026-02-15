@@ -10,11 +10,13 @@ pagination:
 aside:
   title: Summary
   content: |
-    A beginner's allotment notes from Ally Pally allotments.
+    A beginner's notes from Ally Pally allotments - plot 30 GLM.
 related:
   sections:
     - title: Useful links
       items:
+        - text: Ally Pally Allotments
+          href: https://free-4270825.webador.co.uk/
         - text: Royal Horticultural Society
           href: https://www.rhs.org.uk/
         - text: National Allotment Society

@@ -25,7 +25,7 @@ export default function(eleventyConfig) {
         text: '© 2026–2027'
       },
       contentLicence: {
-        text: "This is a staff blog created by the Compassion in Dying team. Views expressed are not necessarily those of the organisation."
+        text: "This is a personal blog."
       },
       logo: false,
       meta: {
@@ -38,8 +38,8 @@ export default function(eleventyConfig) {
       }
     },
     icons: {
+      shortcut: '/images/favicon.svg',
       touch: false,
-      shortcut: false,
       mask: false
     },
     themeColor: '#4a7c59',
