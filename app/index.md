@@ -1,7 +1,7 @@
 ---
 homepage: true
 layout: collection
-title: The view from plot 30
+title: Notes from plot 30
 description: From Zach Moss
 pagination:
   data: collections.post
