@@ -10,15 +10,19 @@ export default function(eleventyConfig) {
         title: 'Allotment notes'
       },
       tags: false,
-      searchIndex: false,
-      sitemap: false
+      searchIndex: true,
+      sitemap: true
     },
     header: {
       logotype: {
         text: 'Allotment notes'
       },
       productName: "",
-      organisationName: "Allotment notes"
+      organisationName: "Allotment notes",
+      search: {
+        indexPath: '/search-index.json',
+        sitemapPath: '/sitemap'
+      }
     },
     footer: {
       copyright: {
