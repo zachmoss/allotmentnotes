@@ -10,6 +10,6 @@ Here are some small squash (Blue Ballet) which look remarkably similar to the co
 
 ![Small squash forming behind the flowers](/images/squash-1.JPG "Small Blue Ballet squash forming")
 
-![A round young squash under the leaves](/images/squash-2.JPG "A young Blue Ballet squash")
+![A squash flower with bees inside](/images/squash-2.JPG "A squash flower with bees")
 
-![A squash flower with bees inside](/images/squash-3.JPG "A squash flower with bees")
+![A round young squash under the leaves](/images/squash-3.JPG "A young Blue Ballet squash")
